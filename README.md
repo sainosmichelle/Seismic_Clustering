@@ -1,8 +1,8 @@
 <h1> Seismic clustering </h1>
 <br/>
 <img src="https://github.com/sainosmichelle/Seismic_Clustering/blob/master/images/earthquake_magnitude.png"
-  width="800"
-  height="500">
+  width="500"
+  height="400">
 
 <p>Python notebook to cluster historic earthquakes. The dataset is from <a href="https://www.kaggle.com/usgs/earthquake-database" title="Title">the National Earthquake Information Center (NEIC)</a>. </p>
 
