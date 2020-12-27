@@ -1,6 +1,6 @@
 <h1> Seismic clustering </h1>
 <br/>
-<img src="https://github.com/sainosmichelle/Crack_Surface_Detection/blob/main/images/cracks.png"
+<img src="https://github.com/sainosmichelle/Seismic_Clustering/blob/master/images/earthquake_magnitude.png"
   width="800"
   height="500">
 
